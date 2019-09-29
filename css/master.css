@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #23272a;
+<<<<<<< HEAD
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #FFFFFF;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+=======
+  font-family: "Montserrat", sans-serif;
+  color: #FFFFFF;
+}
+
+>>>>>>> f88c0e9575720e76ae03742a551f835cbe1e3e0a
+.container-fluid{
+  padding: 3% 10%;
+  background-color:	#2c2f33;
+}
+<<<<<<< HEAD
+.table{
+  background-color: #2c2f33;
+}
+=======
+>>>>>>> f88c0e9575720e76ae03742a551f835cbe1e3e0a
