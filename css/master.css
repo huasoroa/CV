@@ -4,13 +4,13 @@ body {
   background-color: #23272a;
   font-family: "Montserrat";
   font-weight: 400;
-  font-size: 14sp;
-  color: #FFFFFF;
+  font-size: 1.2rem;
+  color: #FFF;
 }
 h1{
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-  font-size: 4,5rem;
+  font-size: 3rem;
 }
 .container-fluid{
   padding: 3% 10%;
